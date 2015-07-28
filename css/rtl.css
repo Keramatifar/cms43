@@ -1,0 +1,19 @@
+body{
+    direction: rtl; /*RightToLeft -> rtl  OR  LeftToRight -> ltr */
+    text-align: right; /* left*/
+    font-family: tahoma; /* Arial*/
+    padding: 0;
+    margin: 0;
+}
+.red{
+    background-color: red;
+}
+.blue{
+    background-color: blue;
+}
+.green{
+    background-color: green;
+}
+.navbar-nav > li{
+    float: right;
+}
